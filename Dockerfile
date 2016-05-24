@@ -1,1 +1,2 @@
-FROM tutum/lamp
+FROM tutum/lamp:latest
+COPY phpinfotest.php /app/
