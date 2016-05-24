@@ -1,2 +1,2 @@
 FROM tutum/lamp:latest
-COPY phpinfotest.php /app/
+COPY src/phpinfotest.php /app/
