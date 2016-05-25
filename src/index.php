@@ -1,6 +1,7 @@
 <?php $link = mysql_connect('localhost', 'root'); ?>                            
-<html>                                                                          
-<head>                                                                          
+<html>
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                                                          
         <title>Hello world!</title>                                             
         <style>                                                                 
         body {                                                                  
@@ -19,7 +20,7 @@ erif;
 <body>
         hello world!<br/><br/>
         你好~！123
-        
+        ceshi测试~！！！！
         <img id="logo" src="logo.png" />                                        
         <h1><?php echo "Hello world!"; ?></h1>                                  
         <?php if(!$link) { ?>                                                   
