@@ -19,6 +19,7 @@ erif;
 <body>
         hello world!<br/><br/>
         你好~！123
+        
         <img id="logo" src="logo.png" />                                        
         <h1><?php echo "Hello world!"; ?></h1>                                  
         <?php if(!$link) { ?>                                                   
